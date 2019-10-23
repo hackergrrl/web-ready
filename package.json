@@ -1,5 +1,5 @@
 {
-  "name": "@noffle/ready",
+  "name": "web-ready",
   "version": "1.0.2",
   "bin": {
     "ready": "index.js"
