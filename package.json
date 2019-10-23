@@ -1,0 +1,8 @@
+{
+  "name": "ready",
+  "version": "1.0.0",
+  "bin": {
+    "ready": "index.js"
+  },
+  "license": "ISC"
+}
