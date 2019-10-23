@@ -10,6 +10,12 @@ $ ready && picast video.mp4
 
 You can run this command, walk off with your phone or tablet or friend's computer, and when you're ready, visit htt10.0.0.10:5000 (or whatever your local ip is), tap READY, and the video will start playing on the TV (in this case, using [picast](https://github.com/noffle/picast).
 
+# Install
+
+```
+npm i -g web-ready
+```
+
 # License
 
 ISC
