@@ -8,5 +8,5 @@ http.createServer((req, res) => {
   } else {
     process.exit(0)
   }
-}).listen(5000, () => console.log('listening on port 5000'))
+}).listen(5000)
 
